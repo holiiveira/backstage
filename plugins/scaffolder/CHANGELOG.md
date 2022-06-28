@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder
 
+## 1.4.0-next.2
+
+### Patch Changes
+
+- 14146703e5: Add `allowArbitraryValues` to `ui:options` in `OwnedEntityPicker`, similar to `allowArbitraryValues` in `EntityPicker`
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.2-next.2
+
 ## 1.4.0-next.1
 
 ### Patch Changes
